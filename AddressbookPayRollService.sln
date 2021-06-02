@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressbookPayRollService", "AddressbookPayRollService\AddressbookPayRollService.csproj", "{DA3A1E8D-F4F9-4DFA-A8BD-9EC7BD455F03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{C2F2B588-CF4A-4E4D-A464-199D38F30944}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressbookPayrollRestSharp", "AddressbookPayrollRestSharp\AddressbookPayrollRestSharp.csproj", "{85434145-C7A3-4520-A2F9-CDF2DEFA275F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{DA3A1E8D-F4F9-4DFA-A8BD-9EC7BD455F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA3A1E8D-F4F9-4DFA-A8BD-9EC7BD455F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA3A1E8D-F4F9-4DFA-A8BD-9EC7BD455F03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2F2B588-CF4A-4E4D-A464-199D38F30944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F2B588-CF4A-4E4D-A464-199D38F30944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F2B588-CF4A-4E4D-A464-199D38F30944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F2B588-CF4A-4E4D-A464-199D38F30944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85434145-C7A3-4520-A2F9-CDF2DEFA275F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85434145-C7A3-4520-A2F9-CDF2DEFA275F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85434145-C7A3-4520-A2F9-CDF2DEFA275F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85434145-C7A3-4520-A2F9-CDF2DEFA275F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddressbookPayrollOperation.cs" />
     <Compile Include="AddressModle.cs" />
     <Compile Include="AddressRepo.cs" />
     <Compile Include="Program.cs" />
