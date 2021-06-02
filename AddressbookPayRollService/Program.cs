@@ -10,14 +10,14 @@ namespace AddressbookPayRollService
     {
         static void Main(string[] args)
         {
-            AddressRepo repo = new AddressRepo();
-            AddressModle modle = new AddressModle();
-            modle.FirstName = "Pankaj";
-            if (repo.DeleteContactByFirstName(modle))
-            {
-                Console.WriteLine("Contact deleted Successfully");
-            }
-            Console.ReadKey();
+            //AddressRepo repo = new AddressRepo();
+            //AddressModle modle = new AddressModle();
+            //modle.FirstName = "Pankaj";
+            //if (repo.DeleteContactByFirstName(modle))
+            //{
+            //    Console.WriteLine("Contact deleted Successfully");
+            //}
+            //Console.ReadKey();
         }
     }
 }
